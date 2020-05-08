@@ -3,7 +3,7 @@
 Flutter - Just One codebase for your IOS and Android. This is sample Weather application using Flutter and Dart for IOS and Android devices.
 This application provides you with the  weather report for the city you select.
 
-## Design/Architecture Patterns used
+## Design Overview
 
 **Bloc Pattern** 
 
@@ -13,7 +13,7 @@ BLoc(Business Logic Component) has logic  for all state changes and event mappin
 
 
 
-![assets/bloc.png]
+![Bloc Pattern](/assets/bloc.png)
 
 
 ## Getting Started
@@ -31,11 +31,7 @@ For Flutter, Either Clone the Flutter repo or go through steps on https://flutte
 flutter --version
 ``
 
-Setup Android Emulator and IOS Simulator (for IOS) and then run following command by connecting the device
 
-``
-flutter run
-``
 
 ## Dependencies
 
@@ -45,11 +41,13 @@ flutter run
 |
 
 
+## Run the Application
 
-## How it looks
+After cloning this repo, setup Android Emulator and IOS Simulator (for IOS) and then run following command by connecting the device
 
-
-
+``
+flutter run
+``
 
 
 
