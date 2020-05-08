@@ -1,7 +1,7 @@
 # Weather Applicatioin With Futter
 
-Flutter - Just One codebase for your IOS and Android. This is sample Weather application using Flutter and Dart for IOS and Android devices.
-This application provides you with the  weather report for the city you select.
+Flutter - Just One codebase for your IOS and Android apps. This is sample Weather application built with Flutter and Dart.
+
 
 ## Design Overview
 
