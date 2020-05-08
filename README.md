@@ -1,0 +1,60 @@
+# Weather Applicatioin With Futter
+
+Flutter - Just One codebase for your IOS and Android. This is sample Weather application using Flutter and Dart for IOS and Android devices.
+This application provides you with the  weather report for the city you select.
+
+## Design/Architecture Patterns used
+
+**Bloc Pattern** 
+
+This adheres to  basic design principles of Object Oriented Programming paradigm to have code reuse and loose coupling.
+
+BLoc(Business Logic Component) has logic  for all state changes and event mappings .It collects data from the API via repository and communicates to the presentation component(Widget).
+
+
+
+![assets/bloc.png]
+
+
+## Getting Started
+
+For running this application,  Firstly Install Dart and Flutter
+
+``
+brew tap dart-lang/dart
+brew install dart
+``
+
+For Flutter, Either Clone the Flutter repo or go through steps on https://flutter.dev/docs/get-started/install/macos. Check the installation by running
+
+``
+flutter --version
+``
+
+Setup Android Emulator and IOS Simulator (for IOS) and then run following command by connecting the device
+
+``
+flutter run
+``
+
+## Dependencies
+
+| Service     | Health       |
+| ----------- | ----------- |
+| https://www.metaweather.com/api/     | Active      |
+|
+
+
+
+## How it looks
+
+
+
+
+
+
+
+
+
+
+
