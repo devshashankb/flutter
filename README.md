@@ -1,6 +1,6 @@
 # Weather Applicatioin With Futter
 
-Flutter - Just One codebase for your IOS and Android apps. This is sample Weather application built with Flutter and Dart.
+Sample Weather Application powered by Flutter/Dart. 
 
 
 ## Design Overview
@@ -32,13 +32,12 @@ flutter --version
 ``
 
 
-
 ## Dependencies
 
 | Service     | Health       |
 | ----------- | ----------- |
 | https://www.metaweather.com/api/     | Active      |
-|
+
 
 
 ## Run the Application
