@@ -1,4 +1,4 @@
-# Weather Applicatioin With Futter
+# Weather Application With Flutter
 
 Sample Weather Application powered by Flutter/Dart. 
 
