@@ -48,6 +48,8 @@ After cloning this repo, setup Android Emulator and IOS Simulator (for IOS) and 
 flutter run
 ``
 
+Here's the application, after we setup on both Android and IOS devices.
+
 ![IOS](/assets/iphone-weather.gif)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ![Android](/assets/android-weather.gif)
 
 ## Tests
