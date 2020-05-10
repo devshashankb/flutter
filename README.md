@@ -48,8 +48,8 @@ After cloning this repo, setup Android Emulator and IOS Simulator (for IOS) and 
 flutter run
 ``
 
-=======
-![IOS](/assets/flutterIOS.gif)
+
+![IOS](/assets/iphone-weather.gif)
 ## Tests
 
 To run the flutter Bloc tests, Please run the following command
