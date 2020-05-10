@@ -49,7 +49,7 @@ flutter run
 ``
 
 
-![IOS](/assets/iphone-weather.gif)
+![IOS](/assets/iphone-weather.gif)  ![Android](/assets/android-weather.gif)
 ## Tests
 
 To run the flutter Bloc tests, Please run the following command
