@@ -27,18 +27,6 @@ class WeatherApiClient {
     return (locationJson.first)['woeid'];
   }
 
-  /* Future<int> getLocationIdWithPosition(String latLong) async {
-      final locationUrl = '$baseUrl/api/location/search/?lattlong=$latLong';
-      final locationResponse = await this.httpClient.get(locationUrl);
-      if (locationResponse.statusCode != 200) {
-        throw Exception('error getting locationId for city');
-      }
-
-      final locationJson = jsonDecode(locationResponse.body) as List;
-      // Prints the first entry related information.
-      return (locationJson.first)['woeid'];
-    } */
-
   /* Function to retrieve Weather with Location ID.
 
    */

@@ -33,13 +33,4 @@ void main() {
     await emitsExactly(
         bloc, [WeatherLoading(), WeatherLoaded(weather: weather)]);
   });
-
-  test('emits [WeatherLoading, WeatherError] when unsuccessful', () async {
-    when(mockWeatherRepository.getWeather(any))
-        .thenAnswer((_) async => weather);
-    final bloc = WeatherBloc(weatherRepository: mockWeatherRepository);
-    bloc.add(FetchWeather(city: 'Chicago'));
-    await emitsExactly(
-        bloc, [WeatherLoading(), WeatherLoaded(weather: weather)]);
-  });
 }
