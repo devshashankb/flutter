@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weatherapplication/blocs/blocs.dart';
-import 'package:weatherapplication/blocs/theme_bloc.dart';
 import 'package:weatherapplication/widgets/widgets.dart';
 
 class Weather extends StatefulWidget {

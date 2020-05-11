@@ -2,11 +2,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weatherapplication/simple_bloc_delegate.dart';
-
 import 'blocs/blocs.dart';
-import 'blocs/theme_bloc.dart';
-import 'repositories/weather_api_client.dart';
-import 'repositories/weather_repository.dart';
+import 'repositories/repositories.dart';
 import 'package:http/http.dart' as http;
 import 'package:weatherapplication/widgets/widgets.dart';
 

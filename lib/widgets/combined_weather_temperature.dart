@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weatherapplication/blocs/blocs.dart';
 import 'package:weatherapplication/models/models.dart' as model;
-import 'package:weatherapplication/widgets/weather_conditions.dart';
-
 import 'widgets.dart';
 
 class CombinedWeatherTemperature extends StatelessWidget {
