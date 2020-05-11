@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:weatherapplication/models/models.dart' as model;
-import 'package:weatherapplication/widgets/weather_conditions.dart';
 
 import 'widgets.dart';
 
