@@ -25,6 +25,7 @@ For running this application,  Firstly Install Dart and Flutter
 
 ``
 brew tap dart-lang/dart
+
 brew install dart
 ``
 
