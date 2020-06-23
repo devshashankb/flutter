@@ -30,8 +30,7 @@ brew install dart
 
 For Flutter, Either Clone the Flutter repo or go through steps on https://flutter.dev/docs/get-started/install/macos. Check the installation by running
 
-
-`jbake -s`
+`flutter --version`
 
 
 ## Dependencies
