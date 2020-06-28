@@ -19,7 +19,7 @@ BLoc(Business Logic Component) has logic  for all state changes and event mappin
 This simple Weather application just samples out the few flutter/dart features. It starts with a customized weather icon on your device screen. When clicked, you can enter specific city for weather information. Later, it present's it in themetic design based on weather condition. You can refresh/view the tempeartures in Celsius/Farenheit. Snack bar with the city name is shown as soon as we reload the weather.
 
 
-## Getting Started for new branch
+## Getting Started for new branch Fake local
 
 
 For running this application,  Firstly Install Dart and Flutter
